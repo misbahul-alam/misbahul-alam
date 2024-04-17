@@ -1,6 +1,8 @@
 ## Hi, I'm Misbahul Alam 👋
 [<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p> -->
+
 ## 🚀 About Me
 My name is Misbahul Alam and I am from Bangladesh. I am an expert in Full-Stack Web Development and Android & IOS App Development. I have extensive knowledge of various programming languages including HTML, CSS, JavaScript, PHP, SQL, Python, and Dart. In addition, I am skilled in using frameworks and libraries such as Bootstrap, Tailwind CSS, Jquery, React, NextJS, NodeJs, Express, Laravel and Flutter.
 
