@@ -1,10 +1,26 @@
 ## Hi, I'm Misbahul Alam 👋
+
 [<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p> 
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p>
 
 ## 🚀 About Me
-My name is Misbahul Alam and I am from Bangladesh. I am an expert in Full-Stack Web Development and Android & IOS App Development. I have extensive knowledge of various programming languages including HTML, CSS, JavaScript, PHP, SQL, Python, and Dart. In addition, I am skilled in using frameworks and libraries such as Bootstrap, Tailwind CSS, Jquery, React, NextJS, NodeJs, Express, Laravel and Flutter.
+
+Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer from Bangladesh with over 5 years of experience delivering scalable, effective, and innovative web applications. My passion lies in crafting user-friendly solutions that not only meet your business goals but also provide exceptional user experiences.
+
+What I Offer:
+✅ Scalable and performance-optimized web applications
+✅ Clean, maintainable, and efficient code
+✅ Full-stack development expertise (Frontend & Backend)
+✅ Customized solutions tailored to your needs
+✅ Commitment to deadlines and project quality
+
+Tech Stack & Skills:
+✅ Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
+✅ Backend: Node.js, Express.js, Socket.IO
+✅ Databases: MongoDB, MySQL, SQLite
+✅ Mobile Development: Flutter, Dart
+✅ Other Tools: Python, Git, REST APIs, WebSocket
 
 <br>
 <p align="left">
