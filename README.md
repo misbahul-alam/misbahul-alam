@@ -4,11 +4,11 @@
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p>
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer from Bangladesh with over 5 years of experience delivering scalable, effective, and innovative web applications. My passion lies in crafting user-friendly solutions that not only meet your business goals but also provide exceptional user experiences.
 
-What I Offer:
+**What I Offer:**
 
 - Scalable and performance-optimized web applications
 - Clean, maintainable, and efficient code
@@ -16,7 +16,7 @@ What I Offer:
 - Customized solutions tailored to your needs
 - Commitment to deadlines and project quality
 
-Tech Stack & Skills:
+**Tech Stack & Skills:**
 
 - Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
 - Backend: Node.js, Express.js, Socket.IO
