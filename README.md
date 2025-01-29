@@ -1,6 +1,6 @@
 ## Hi, I'm Misbahul Alam 👋
 
-[<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
+[<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/refs/heads/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p>
 
