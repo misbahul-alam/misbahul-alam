@@ -26,5 +26,6 @@ Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer
 
 <br>
 <p align="left">
-  <a href="https://github.com/misbahul-alam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahul-alam&langs_count=10&title_color=a855f7&text_color=000&icon_color=000&bg_color=fffff&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+  <a href="https://github.com/misbahul-alam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahul-alam&layout=compact" alt="Top Languages" /></a>
+  
 </p>
