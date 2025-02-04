@@ -2,7 +2,7 @@
 
 [<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/refs/heads/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=0e75b6&style=flat" alt="Misbahul Alam" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Misbahul Alam" /> </p>
 
 ## 👨‍💻 About Me
 
@@ -27,5 +27,6 @@ Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer
 <br>
 <p align="left">
   <a href="https://github.com/misbahul-alam" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahul-alam&layout=compact" alt="Top Languages" /></a>
+  
   
 </p>
