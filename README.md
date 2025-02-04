@@ -2,7 +2,9 @@
 
 [<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/refs/heads/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Misbahul Alam" /> </p>
+ <p align="left">
+ <a href="https://github.com/misbahul-alam"><img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Misbahul Alam" /></a>
+ </p>
 
 ## 👨‍💻 About Me
 
