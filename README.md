@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About Me
 
-Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer from Bangladesh with over 5 years of experience delivering scalable, effective, and innovative web applications. My passion lies in crafting user-friendly solutions that not only meet your business goals but also provide exceptional user experiences.
+Hello! I'm Misbahul Alam, a highly skilled Full-Stack Developer from Bangladesh with over 5 years of experience delivering scalable, effective, and innovative web applications. My passion lies in crafting user-friendly solutions that not only meet your business goals but also provide exceptional user experiences.
 
 **What I Offer:**
 
@@ -21,10 +21,10 @@ Hello! I'm Misbahul Alam, a highly skilled Full-Stack Web and Software Developer
 **Tech Stack & Skills:**
 
 - Frontend: HTML, CSS, Tailwind CSS, JavaScript, TypeScript, React.js, Next.js
-- Backend: Node.js, Express.js, Socket.IO
-- Databases: MongoDB, MySQL, SQLite
+- Backend: Node.js, Express.js, Nest.js, Socket.IO
+- Databases: MongoDB, PostgreSQL, MySQL, SQLite
 - Mobile Development: Flutter, Dart
-- Other Tools: Python, Git, REST APIs, WebSocket, Docker
+- Other Tools: Python, Git, REST APIs, WebSocket, Docker, AWS
 
 <br>
 <p align="left">
