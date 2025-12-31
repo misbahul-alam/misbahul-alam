@@ -8,9 +8,9 @@
 
 ## 👨‍💻 Professional Summary
 
-I am **Misbahul Alam**, a results-driven **Full-Stack Developer** based in Bangladesh, with specialized expertise in **Advanced Backend Architecture** and **Generative AI Integration**. I possess a proven track record of engineering high-performance, scalable, and secure software solutions that drive business value.
+I am a **Backend Developer** focused on building the robust infrastructure and complex logic required for modern applications. I specialize in creating scalable server-side systems, managing mission-critical data, and integrating intelligent orchestration layers (like LangChain) into production environments.
 
-My technical philosophy is grounded in the rigorous application of efficient algorithms and modern software design patterns. I excel in architecting distributed microservices, optimizing complex database schemas, and embedding intelligent AI agents into production environments. Committed to engineering excellence, I prioritize clean, maintainable code and robust system design to bridge the gap between visionary concepts and flawless technical execution.
+I don't just write code; I design **systems**. My goal is to ensure that every application I build is type-safe, secure, and ready to scale. While I have deep experience in AI orchestration, my core strength lies in **Backend Architecture** and **Full-Cycle Operations**.
 
 ---
 
