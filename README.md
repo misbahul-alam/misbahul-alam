@@ -79,17 +79,7 @@ My work centers around backend architecture, database optimization, and event-dr
 
 ### GitHub Stats
 
-<!--
-<p align="center">
-  <a href="https://github.com/misbahul-alam">
-    <img src="https://github-readme-stats.vercel.app/api?username=misbahul-alam&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Misbahul's GitHub Stats" />
-  </a> -->
-  <a href="https://github.com/misbahul-alam">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=misbahul-alam&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Top Languages" />
-  </a>
-</p>
-
----
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=misbahul-alam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
 ### 📫 Connect With Me
 
