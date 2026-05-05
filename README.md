@@ -1,6 +1,6 @@
 ## Hi, I'm Misbahul Alam 👋
 
-[<img src='https://raw.githubusercontent.com/misbahul-alam/misbahul-alam/refs/heads/main/cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
+[<img src='./cover.webp' alt='Misbahul Alam'>](https://github.com/misbahul-alam/)
 
 <p align="left">
  <a href="https://github.com/misbahul-alam"><img src="https://komarev.com/ghpvc/?username=misbahul-alam&label=Profile%20views&color=2563eb&style=for-the-badge" alt="Misbahul Alam" /></a>
@@ -8,27 +8,41 @@
 
 ## 👨‍💻 Professional Summary
 
-Backend Engineer focused on building scalable APIs, microservices, and reliable backend systems. Experienced in designing clean, maintainable architectures using Go, Node.js, and PostgreSQL, with a strong focus on performance optimization and system reliability.
+I build distributed backend systems — event-driven architectures, clean service boundaries,
+and APIs across REST, GraphQL and gRPC that hold up under real production conditions. My
+focus is on the decisions underneath the code: where consistency boundaries sit, how data
+flows between services, and what happens when things fail at the worst possible moment.
 
-I have hands-on experience developing backend services, optimizing database queries, and implementing event-driven systems using tools like Redis and RabbitMQ. I work with containerized environments using Docker and automate deployment workflows through CI/CD pipelines and cloud infrastructure on AWS.
+I apply Domain-Driven Design to define bounded contexts and aggregate boundaries, use the
+transactional outbox pattern to guarantee event delivery without distributed transactions,
+and design for failure from the start — idempotent consumers, circuit breakers, dead letter
+queues. I use Kafka and RabbitMQ for async event pipelines, thinking carefully about delivery
+guarantees and what happens when a consumer goes down mid-processing.
 
-My approach emphasizes simplicity, clear architecture, and long-term maintainability. I aim to build backend systems that are efficient, scalable, and easy to evolve as product requirements and traffic grow.
+On the data side, I work with PostgreSQL with deliberate attention to indexing and query
+planning, and Redis for caching strategies like cache-aside and write-through — chosen based
+on read/write tradeoffs, not defaults. I care about how data is modelled as much as how it
+is stored.
+
+I'm self-taught and based in Bangladesh. Every concept I understand I built a genuine mental
+model for — not memorised, understood. I take the craft seriously, read widely, and care
+about depth of thinking as much as speed of output.
+<br>
 
 ## 🚀 Core Expertise
 
-- ⚙️ **Backend Engineering** – Building scalable backend services and high-performance APIs using **Go and Node.js**, with a focus on clean architecture, maintainable code, and efficient system design.
+- ⚙️ **Backend Engineering** – Production-grade systems with clean architecture and clear domain boundaries.
+- 🧩 **Microservices** – Loosely coupled, independently deployable services built for resilience.
+- 🔗 **API Design** – REST, GraphQL, and gRPC chosen for what the problem actually needs.
+- 📡 **Event-Driven Architecture** – Async pipelines with Kafka and RabbitMQ built around delivery guarantees.
+- 🏗️ **System Design** – CAP tradeoffs, DDD, outbox pattern, and CQRS applied when the problem calls for them.
+- 🗄️ **Databases & Caching** – PostgreSQL with deliberate indexing and Redis strategies that match the workload.
+- ☁️ **DevOps & Cloud** – Docker, GitHub Actions, and AWS with production readiness built in from the start.
+- 🧪 **Testing & Reliability** – Tests that catch real failure modes, not just hit a coverage number, and development practices that prioritize long-term maintainability.
 
-- 🧩 **Microservices & Event-Driven Systems** – Developing loosely coupled services and asynchronous workflows using **RabbitMQ** to support reliable communication between services.
+<br>
 
-- 🗄️ **Databases & Caching** – Designing efficient data models and optimizing queries using **PostgreSQL, MongoDB, and Redis** to ensure fast and scalable data access.
-
-- ☁️ **DevOps & Cloud Deployment** – Containerizing applications with **Docker** and automating deployments through **CI/CD pipelines and AWS infrastructure**.
-
-- 🧪 **Testing & Code Quality** – Maintaining system reliability through automated testing, clear code structure, and development practices that prioritize long-term maintainability.
-
----
-
-### 🛠️ Technical Skills
+## 🛠️ Technical Skills
 
 <p align="left">
 
@@ -39,66 +53,68 @@ My approach emphasizes simplicity, clear architecture, and long-term maintainabi
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**  
-![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/zustand-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 **Backend Frameworks**  
-![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
+![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
-![Express](https://img.shields.io/badge/express-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
 
 **APIs & Messaging**  
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
+![WebSocket](https://img.shields.io/badge/WebSocket-000000?style=for-the-badge&logo=websocket&logoColor=white)
 
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-**DevOps & Tools**  
+**DevOps**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 **Testing**  
+![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Jest](https://img.shields.io/badge/jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/vitest-22ff73?style=for-the-badge&logo=vitest&logoColor=white)
-![Testify](https://img.shields.io/badge/Testify-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
 </p>
 
----
+<br>
 
-### GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=misbahul-alam&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117)
 
-### 📫 Connect With Me
+## 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/misbahul-alam" target="_blank">
+  <a href="https://linkedin.com/in/misbahul-alam" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:misbahulalam64@gmail.com" target="_blank">
+  <a href="mailto:misbahulalam64@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://facebook.com/MisbahulAlam64" target="_blank">
+  <a href="https://facebook.com/MisbahulAlam64" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://wa.me/8801705470560" target="_blank">
+  <a href="https://wa.me/8801705470560" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
   </a>
 </p>
