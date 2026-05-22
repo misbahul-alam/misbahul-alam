@@ -8,39 +8,24 @@
 
 ## 👨‍💻 Professional Summary
 
-I build distributed backend systems — event-driven architectures, clean service boundaries,
-and APIs across REST, GraphQL and gRPC that hold up under real production conditions. My
-focus is on the decisions underneath the code: where consistency boundaries sit, how data
-flows between services, and what happens when things fail at the worst possible moment.
+I build distributed backend systems that work reliably in real production environments. This includes event-driven setups, clean service boundaries, and APIs using REST, GraphQL, and gRPC. I pay special attention to important decisions behind the code — like where to keep data consistent, how information moves safely between services, and how the system should handle failures.
 
-I apply Domain-Driven Design to define bounded contexts and aggregate boundaries, use the
-transactional outbox pattern to guarantee event delivery without distributed transactions,
-and design for failure from the start — idempotent consumers, circuit breakers, dead letter
-queues. I use Kafka and RabbitMQ for async event pipelines, thinking carefully about delivery
-guarantees and what happens when a consumer goes down mid-processing.
+I use Domain-Driven Design to organize business logic clearly, apply the transactional outbox pattern for reliable message delivery, and build systems that can handle problems from the beginning. This includes idempotent consumers, circuit breakers, dead letter queues, and smart retry handling. I work with Kafka and RabbitMQ for background processing, always making sure messages are delivered properly even when issues occur.
 
-On the data side, I work with PostgreSQL with deliberate attention to indexing and query
-planning, and Redis for caching strategies like cache-aside and write-through — chosen based
-on read/write tradeoffs, not defaults. I care about how data is modelled as much as how it
-is stored.
-
-I'm self-taught and based in Bangladesh. Every concept I understand I built a genuine mental
-model for — not memorised, understood. I take the craft seriously, read widely, and care
-about depth of thinking as much as speed of output.
+For data, I use PostgreSQL with proper indexing and query optimization, and Redis with practical caching methods based on real usage patterns. I am a self-taught backend engineer from Bangladesh. I focus on deeply understanding concepts from the fundamentals, read regularly, and care about building things correctly rather than just working quickly.
 <br>
 
 ## 🚀 Core Expertise
 
-- ⚙️ **Backend Engineering** – Production-grade systems with clean architecture and clear domain boundaries.
-- 🧩 **Microservices** – Loosely coupled, independently deployable services built for resilience.
-- 🔗 **API Design** – REST, GraphQL, and gRPC chosen for what the problem actually needs.
-- 📡 **Event-Driven Architecture** – Async pipelines with Kafka and RabbitMQ built around delivery guarantees.
-- 🏗️ **System Design** – CAP tradeoffs, DDD, outbox pattern, and CQRS applied when the problem calls for them.
-- 🗄️ **Databases & Caching** – PostgreSQL with deliberate indexing and Redis strategies that match the workload.
-- ☁️ **DevOps & Cloud** – Docker, GitHub Actions, and AWS with production readiness built in from the start.
-- 🧪 **Testing & Reliability** – Tests that catch real failure modes, not just hit a coverage number, and development practices that prioritize long-term maintainability.
-
-<br>
+- ⚡ **Backend Engineering** – Production-grade systems with clean architecture and strong domain boundaries
+- 🧱 **Microservices** – Loosely coupled, resilient, and independently deployable services
+- 🔌 **API Design** – REST, GraphQL, and gRPC chosen according to actual problem requirements
+- 📨 **Event-Driven Architecture** – Reliable async pipelines with strong delivery guarantees
+- 🧠 **System Design** – DDD, CAP tradeoffs, Outbox Pattern, and CQRS applied where they deliver value
+- 🗃️ **Databases & Caching** – PostgreSQL with thoughtful indexing + Redis strategies matched to workloads
+- ☁️ **DevOps & Cloud** – Docker, Kubernetes, AWS, and CI/CD with production readiness in mind
+- 🛡️ **Reliability & Testing** – Practices focused on real failure modes and long-term maintainability
+  <br>
 
 ## 🛠️ Technical Skills
 
@@ -64,6 +49,7 @@ about depth of thinking as much as speed of output.
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
 ![Express](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **APIs & Messaging**  
 ![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
