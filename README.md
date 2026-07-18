@@ -8,23 +8,23 @@
 
 ## 👨‍💻 Professional Summary
 
-I build distributed backend systems that work reliably in real production environments. This includes event-driven setups, clean service boundaries, and APIs using REST, GraphQL, and gRPC. I pay special attention to important decisions behind the code — like where to keep data consistent, how information moves safely between services, and how the system should handle failures.
+I build scalable distributed backend systems that perform well in real production environments. My focus is on clean service boundaries, event-driven architectures and well-designed APIs using REST, GraphQL and gRPC. I pay special attention to the important decisions behind the code. Keeping data consistent, enabling safe communication between services and handling failures gracefully.
 
-I use Domain-Driven Design to organize business logic clearly, apply the transactional outbox pattern for reliable message delivery, and build systems that can handle problems from the beginning. This includes idempotent consumers, circuit breakers, dead letter queues, and smart retry handling. I work with Kafka and RabbitMQ for background processing, always making sure messages are delivered properly even when issues occur.
+I use Domain-Driven Design for clarity and organization in the business logic. I use patterns like Transactional Outbox for reliable messaging and resilience patterns like idempotent consumers, circuit breakers, dead letter queues, smart retries, and so on. I use Kafka and RabbitMQ a lot for background processing.
 
-For data, I use PostgreSQL with proper indexing and query optimization, and Redis with practical caching methods based on real usage patterns. I am a self-taught backend engineer from Bangladesh. I focus on deeply understanding concepts from the fundamentals, read regularly, and care about building things correctly rather than just working quickly.
+Data side I use PostgreSQL, MySQL and MongoDB for solid storage and query performance and Redis for practical and high performance caching. I have a strong interest in learning about systems from the ground up, and I always try to build things the right way and not just make them work quickly.
 <br>
 
 ## 🚀 Core Expertise
 
-- ⚡ **Backend Engineering** – Production-grade systems with clean architecture and strong domain boundaries
-- 🧱 **Microservices** – Loosely coupled, resilient, and independently deployable services
-- 🔌 **API Design** – REST, GraphQL, and gRPC chosen according to actual problem requirements
-- 📨 **Event-Driven Architecture** – Reliable async pipelines with strong delivery guarantees
-- 🧠 **System Design** – DDD, CAP tradeoffs, Outbox Pattern, and CQRS applied where they deliver value
-- 🗃️ **Databases & Caching** – PostgreSQL with thoughtful indexing + Redis strategies matched to workloads
-- ☁️ **DevOps & Cloud** – Docker, Kubernetes, AWS, and CI/CD with production readiness in mind
-- 🛡️ **Reliability & Testing** – Practices focused on real failure modes and long-term maintainability
+- **Backend Engineering** – Designing and building scalable, production-ready distributed systems with clean architecture
+- **Microservices & Event-Driven Systems** – Creating loosely coupled, resilient services that communicate reliably through events
+- **API Design** – Developing intuitive APIs using REST, GraphQL, or gRPC based on what the problem actually needs
+- **System Design & Architecture** – Applying Domain-Driven Design (DDD), Transactional Outbox, CQRS, and making smart tradeoffs for consistency and availability
+- **Messaging & Reliability** – Building robust async pipelines with Kafka and RabbitMQ, including idempotency, circuit breakers, dead letter queues, and smart retry strategies
+- **Databases & Caching** – Working with PostgreSQL (optimized queries and indexing), MongoDB, and Redis for high-performance caching tailored to real usage patterns
+- **DevOps & Cloud** – Containerization with Docker, orchestration with Kubernetes, AWS cloud services, and smooth CI/CD pipelines
+- **Reliability & Maintainability** – Focusing on real failure scenarios, observability, and writing code that stays maintainable over time
   <br>
 
 ## 🛠️ Technical Skills
@@ -38,13 +38,13 @@ For data, I use PostgreSQL with proper indexing and query optimization, and Redi
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 **Frontend**  
-![Next JS](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-593d88?style=for-the-badge&logo=redux&logoColor=white)
 ![Zustand](https://img.shields.io/badge/Zustand-black?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
-**Backend Frameworks**  
+**Backend**  
 ![Gin](https://img.shields.io/badge/Gin-008ECF?style=for-the-badge&logo=go&logoColor=white)
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![Fastify](https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white)
@@ -52,7 +52,7 @@ For data, I use PostgreSQL with proper indexing and query optimization, and Redi
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
 **APIs & Messaging**  
-![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
+![REST](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![gRPC](https://img.shields.io/badge/gRPC-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
@@ -62,10 +62,10 @@ For data, I use PostgreSQL with proper indexing and query optimization, and Redi
 **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
-**DevOps**  
+**DevOps & Tools**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -78,7 +78,6 @@ For data, I use PostgreSQL with proper indexing and query optimization, and Redi
 ![Vitest](https://img.shields.io/badge/vitest-22ff73?style=for-the-badge&logo=vitest&logoColor=white)
 
 </p>
-
 <br>
 
 ## 📊 GitHub Stats
